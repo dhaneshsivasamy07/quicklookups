@@ -13,3 +13,4 @@ A cheetsheet for things that you might need often
 ## Tools CheetSheet
 
 - [Vim](https://github.com/cyberwr3nch/quicklookups/blob/master/Vim-CheetSheet.pdf)
+- [Sublime Text3](https://github.com/cyberwr3nch/quicklookups/blob/master/Subl-CheatSheet.pdf)
