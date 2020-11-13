@@ -10,6 +10,12 @@ A cheatsheet for things that you might need often, I dont hold the ownership for
 - [CMD](https://github.com/cyberwr3nch/quicklookups/blob/master/Windows/SANS%20CMD%20CheatSheet.pdf)
 - [PowerShell](https://github.com/cyberwr3nch/quicklookups/blob/master/Windows/PowerShell%20CheatSheet.pdf)
 
+## Modules CheatSheet/Instruction
+
+| Module Name | Language | Source |
+|-------------|---------|--------|
+| pyDes (Cryptographic library DES) | Python | [whitemans.ca](http://whitemans.ca/des.html) |
+
 ## Tools cheatSheet
 
 - [Vim](https://github.com/cyberwr3nch/quicklookups/blob/master/Vim-cheatSheet.pdf)
