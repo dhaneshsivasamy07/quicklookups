@@ -18,7 +18,7 @@ A cheatsheet for things that you might need often, I dont hold the ownership for
 
 ## Tools cheatSheet
 
-- [Vim](https://github.com/cyberwr3nch/quicklookups/blob/master/Vim-cheatSheet.pdf)
+- [Vim](https://github.com/cyberwr3nch/quicklookups/blob/master/VIM/vim.md)
 - [Sublime Text3](https://github.com/cyberwr3nch/quicklookups/blob/master/Subl-CheatSheet.pdf)
 
 ## Pentesting cheatSheet
